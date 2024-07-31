@@ -1,0 +1,1 @@
+Hey! This Repo contains some basic ml algos and their implementation using python, we have also used scikit-learn library to use those algos.
